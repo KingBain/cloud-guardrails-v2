@@ -1,10 +1,10 @@
-# Protect user accounts and identities
+# Secure and Isolate Privileged Cloud Accounts
 
 ([Back](../README.md))
 
 ## Objective
 
-Protect User Accounts and Identities.
+Ensure the robust protection of all user accounts, with an emphasis on securing privileged cloud accounts that administer significant services or manage multiple solutions. The objective is to minimize potential impacts in case of a compromise, safeguarding multiple projects and large groups of users.
 
 ## Applicable Service Models
 
