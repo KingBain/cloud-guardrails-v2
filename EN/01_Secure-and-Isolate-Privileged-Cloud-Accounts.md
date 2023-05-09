@@ -2,7 +2,7 @@
 
 ([Back](../README.md))
 
-## Objective
+## Objective/Intent
 
 Ensure the robust protection of all user accounts, with an emphasis on securing privileged cloud accounts that administer significant services or manage multiple solutions. The objective is to minimize potential impacts in case of a compromise, safeguarding multiple projects and large groups of users.
 
@@ -25,7 +25,7 @@ Ensure the robust protection of all user accounts, with an emphasis on securing 
 
 | Additional Considerations |
 | ------------------------- |
-| <ul><li>Anti Patterns</li></ul> |
+| None |
 
 
 ## References
