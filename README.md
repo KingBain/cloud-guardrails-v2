@@ -31,7 +31,7 @@ For this document the following definitions will be used:
 
 | ID. | Cloud Guardrails                                                                      |
 | --- | ------------------------------------------------------------------------------------- |
-| 01  | [Protect User Accounts and Identities](EN/01_Protect-user-accounts-and-identities.md) |
+| 01  | [Protect User Accounts and Identities](EN/01_Secure-and-Isolate-Privileged-Cloud-Accounts.md) |
 | 02  | [Manage Access](EN/02_Manage-Access.md)                                               |
 | 03  | [Secure Endpoints](EN/03_Secure-Endpoints.md)                                         |
 | 04  | [Enterprise monitoring accounts](EN/04_Enterprise-Monitoring-Accounts.md)             |
